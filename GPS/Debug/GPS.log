@@ -1,0 +1,7 @@
+﻿cl : Command line warning D9030: '/Gm' is incompatible with multiprocessing; ignoring /MP switch
+  GNSS.cpp
+  Generating Code...
+  Skipping... (no relevant changes detected)
+  GPS.cpp
+  GPS.vcxproj -> G:\MyFiles\Dropbox\uni\2016 S2\MTRN3500\Assignment 2\WeederAssignment\Debug\GPS.exe
+  GPS.vcxproj -> G:\MyFiles\Dropbox\uni\2016 S2\MTRN3500\Assignment 2\WeederAssignment\Debug\GPS.pdb (Full PDB)
