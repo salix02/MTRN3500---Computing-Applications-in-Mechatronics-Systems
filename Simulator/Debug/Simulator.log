@@ -1,0 +1,52 @@
+﻿  Vehicle.cpp
+  VectorMaths.cpp
+g:\myfiles\dropbox\uni\2016 s2\mtrn3500\assignment 2\weederassignment\simulator\systemintegrationvis-base-2015\vectormaths.cpp(123): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  Shape.cpp
+  RectangularPrism.cpp
+  Quaternion.cpp
+  ObstacleManager.cpp
+  Obstacle.cpp
+  MyVehicle.cpp
+g:\myfiles\dropbox\uni\2016 s2\mtrn3500\assignment 2\weederassignment\simulator\systemintegrationvis-base-2015\myvehicle.cpp(43): warning C4838: conversion from 'double' to 'const float' requires a narrowing conversion
+  Messages.cpp
+g:\myfiles\dropbox\uni\2016 s2\mtrn3500\assignment 2\weederassignment\simulator\systemintegrationvis-base-2015\messages.cpp(229): warning C4018: '<': signed/unsigned mismatch
+  main.cpp
+g:\myfiles\dropbox\uni\2016 s2\mtrn3500\assignment 2\weederassignment\simulator\systemintegrationvis-base-2015\main.cpp(15): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  KeyManager.cpp
+  HUD.cpp
+g:\myfiles\dropbox\uni\2016 s2\mtrn3500\assignment 2\weederassignment\simulator\systemintegrationvis-base-2015\hud.cpp(38): warning C4018: '<': signed/unsigned mismatch
+  Ground.cpp
+g:\myfiles\dropbox\uni\2016 s2\mtrn3500\assignment 2\weederassignment\simulator\systemintegrationvis-base-2015\ground.cpp(21): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+g:\myfiles\dropbox\uni\2016 s2\mtrn3500\assignment 2\weederassignment\simulator\systemintegrationvis-base-2015\ground.cpp(22): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+g:\myfiles\dropbox\uni\2016 s2\mtrn3500\assignment 2\weederassignment\simulator\systemintegrationvis-base-2015\ground.cpp(24): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+g:\myfiles\dropbox\uni\2016 s2\mtrn3500\assignment 2\weederassignment\simulator\systemintegrationvis-base-2015\ground.cpp(25): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+  Frustum.cpp
+  Camera.cpp
+g:\myfiles\dropbox\uni\2016 s2\mtrn3500\assignment 2\weederassignment\simulator\systemintegrationvis-base-2015\camera.cpp(42): warning C4305: '=': truncation from 'double' to 'float'
+g:\myfiles\dropbox\uni\2016 s2\mtrn3500\assignment 2\weederassignment\simulator\systemintegrationvis-base-2015\camera.cpp(43): warning C4305: '=': truncation from 'double' to 'float'
+g:\myfiles\dropbox\uni\2016 s2\mtrn3500\assignment 2\weederassignment\simulator\systemintegrationvis-base-2015\camera.cpp(84): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+g:\myfiles\dropbox\uni\2016 s2\mtrn3500\assignment 2\weederassignment\simulator\systemintegrationvis-base-2015\camera.cpp(215): warning C4305: '*=': truncation from 'double' to 'float'
+g:\myfiles\dropbox\uni\2016 s2\mtrn3500\assignment 2\weederassignment\simulator\systemintegrationvis-base-2015\camera.cpp(216): warning C4305: '*=': truncation from 'double' to 'float'
+g:\myfiles\dropbox\uni\2016 s2\mtrn3500\assignment 2\weederassignment\simulator\systemintegrationvis-base-2015\camera.cpp(217): warning C4305: '*=': truncation from 'double' to 'float'
+g:\myfiles\dropbox\uni\2016 s2\mtrn3500\assignment 2\weederassignment\simulator\systemintegrationvis-base-2015\camera.cpp(276): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+g:\myfiles\dropbox\uni\2016 s2\mtrn3500\assignment 2\weederassignment\simulator\systemintegrationvis-base-2015\camera.cpp(282): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+g:\myfiles\dropbox\uni\2016 s2\mtrn3500\assignment 2\weederassignment\simulator\systemintegrationvis-base-2015\camera.cpp(283): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+g:\myfiles\dropbox\uni\2016 s2\mtrn3500\assignment 2\weederassignment\simulator\systemintegrationvis-base-2015\camera.cpp(354): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+g:\myfiles\dropbox\uni\2016 s2\mtrn3500\assignment 2\weederassignment\simulator\systemintegrationvis-base-2015\camera.cpp(398): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+g:\myfiles\dropbox\uni\2016 s2\mtrn3500\assignment 2\weederassignment\simulator\systemintegrationvis-base-2015\camera.cpp(399): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+g:\myfiles\dropbox\uni\2016 s2\mtrn3500\assignment 2\weederassignment\simulator\systemintegrationvis-base-2015\camera.cpp(434): warning C4244: '-=': conversion from 'double' to 'float', possible loss of data
+g:\myfiles\dropbox\uni\2016 s2\mtrn3500\assignment 2\weederassignment\simulator\systemintegrationvis-base-2015\camera.cpp(439): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+g:\myfiles\dropbox\uni\2016 s2\mtrn3500\assignment 2\weederassignment\simulator\systemintegrationvis-base-2015\camera.cpp(443): warning C4101: 'new_dest_dir': unreferenced local variable
+g:\myfiles\dropbox\uni\2016 s2\mtrn3500\assignment 2\weederassignment\simulator\systemintegrationvis-base-2015\camera.cpp(768): warning C4305: '=': truncation from 'double' to 'float'
+g:\myfiles\dropbox\uni\2016 s2\mtrn3500\assignment 2\weederassignment\simulator\systemintegrationvis-base-2015\camera.cpp(769): warning C4305: '=': truncation from 'double' to 'float'
+g:\myfiles\dropbox\uni\2016 s2\mtrn3500\assignment 2\weederassignment\simulator\systemintegrationvis-base-2015\camera.cpp(774): warning C4305: '=': truncation from 'double' to 'float'
+g:\myfiles\dropbox\uni\2016 s2\mtrn3500\assignment 2\weederassignment\simulator\systemintegrationvis-base-2015\camera.cpp(775): warning C4305: '=': truncation from 'double' to 'float'
+g:\myfiles\dropbox\uni\2016 s2\mtrn3500\assignment 2\weederassignment\simulator\systemintegrationvis-base-2015\camera.cpp(780): warning C4305: '=': truncation from 'double' to 'float'
+g:\myfiles\dropbox\uni\2016 s2\mtrn3500\assignment 2\weederassignment\simulator\systemintegrationvis-base-2015\camera.cpp(781): warning C4305: '=': truncation from 'double' to 'float'
+  Simulator.cpp
+  SMObject.cpp
+  SMFcn.cpp
+  Generating Code...
+cl : Command line warning D9028: minimal rebuild failure, reverting to normal build
+  Simulator.vcxproj -> G:\MyFiles\Dropbox\uni\2016 S2\MTRN3500\Assignment 2\WeederAssignment\Debug\Simulator.exe
+  Simulator.vcxproj -> G:\MyFiles\Dropbox\uni\2016 S2\MTRN3500\Assignment 2\WeederAssignment\Debug\Simulator.pdb (Full PDB)
